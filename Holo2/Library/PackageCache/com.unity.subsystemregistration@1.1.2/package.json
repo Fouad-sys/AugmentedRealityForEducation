@@ -1,0 +1,23 @@
+{
+  "name": "com.unity.subsystemregistration",
+  "displayName": "DEPRECATED  Subsystem Registration",
+  "version": "1.1.2",
+  "unity": "2019.4",
+  "description": "<b>This package has been deprecated for Unity Editor 2023.1 and above.</b>  \n\nProvides internal registration mechanism for standalone subsystems.  It allows a standalone subsystem to inform the Subsystem Manager of its existence.",
+  "keywords": [
+    "subsystem",
+    "registration",
+    "internal"
+  ],
+  "dependencies": {
+    "com.unity.modules.subsystems": "1.0.0"
+  },
+  "upmCi": {
+    "footprint": "3dbcd52657f153bf429d241f9b36106e47baf942"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.subsystemregistration.git",
+    "type": "git",
+    "revision": "6b8adbd4fe890098c856cb69e9c360ca24f258a2"
+  }
+}
