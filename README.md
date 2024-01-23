@@ -2,9 +2,11 @@
 
 This project was conducted as part of a semester project in the EPFL CHILI lab on using Augmented Reality for Education for Teachers teaching an Online Classroom.
 
-The project can be run on the Microsoft HoloLens 1 after deployment through Visual Studio or locally br running the Main 1 Unity Scene.
+The project can be run on the Microsoft HoloLens 1 after deployment through Visual Studio (we used the 2022 version here, but the project should be compatible with any version supporting remote device connection) or locally by running the Main 1 Unity Scene.
 
-It requires downloading and installing The Mixed Reality Feature Tool (https://www.microsoft.com/en-us/download/details.aspx?id=102778) and importing the Mixed Reality ToolKit Foundation and the Mixed Reality OpenXR Plugin to the Unity project.
+We have used Unity version 2019.4.33f1 with LTD (Long Term Support) and Legacy Built-in XR.
+
+The project requires downloading and installing The Mixed Reality Feature Tool (https://www.microsoft.com/en-us/download/details.aspx?id=102778) and importing the Mixed Reality ToolKit Foundation and the Mixed Reality OpenXR Plugin to the Unity project.
 
 The necessary Build settings to build the project in Unity are as seen below:
 
