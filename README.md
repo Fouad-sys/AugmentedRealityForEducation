@@ -1,6 +1,7 @@
 # AugmentedRealityForEducation
 
 This project was conducted as part of a semester project in the EPFL CHILI lab on using Augmented Reality for Education for Teachers teaching an Online Classroom.
+Its main focus is enhancing education forms by allowing students and teachers to delve in immersive lessons providing capabilities that facilitate and improve teaching
 
 The project can be run on the Microsoft HoloLens 1 after deployment through Visual Studio (we used the 2022 version here, but the project should be compatible with any version supporting remote device connection) or locally by running the Main 1 Unity Scene.
 
